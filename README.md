@@ -8,7 +8,7 @@ This project is the final project for the Information Systems Analysis and Desig
 - Framework: Java Swing for building the graphical user interface (GUI)
 - Database: MySQL
 <hr>
-System design and analysis, check <a href="https://uithcm-my.sharepoint.com/:w:/r/personal/20522079_ms_uit_edu_vn/_layouts/15/Doc.aspx?sourcedoc=%7B6905C19D-D7FA-4A14-B99C-9345C2B664F5%7D&file=Group8_20522079_20521733_20521650_18521212.docx&action=default&mobileredirect=true"> Documentation </a> 
+System design and analysis, check <a href="https://drive.google.com/file/d/14RYgThckFgPNDF4LtfcG6OenpMbeTBcR/view?usp=sharing"> Documentation </a> 
 
 The Use-case diagram
 
